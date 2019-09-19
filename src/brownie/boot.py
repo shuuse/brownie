@@ -154,7 +154,7 @@ try:
                     max_rect = rect_size
                     max_id = id
             if but_a.value() == 0  and isButtonPressedA == 0:
-                play_sound("/sd/voice/ja/"+str(max_id)+".wav")
+                play_sound("/sd/voice/en/"+str(max_id)+".wav")
                 isButtonPressedA = 1
         if but_a.value() == 1:
             isButtonPressedA = 0
