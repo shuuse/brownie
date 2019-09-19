@@ -1,3 +1,5 @@
+#English translation and voice by shuuse https://github.com/shuuse/brownie
+
 English/[日本語](README.ja.md)
 # Brownie
 Brownie is an offline object detection app for M5StickV that will tell you the name of the object in a cute voice!
