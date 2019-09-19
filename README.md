@@ -1,4 +1,4 @@
-#English translation and voice by shuuse https://github.com/shuuse/brownie
+English translation and voice by shuuse https://github.com/shuuse/brownie
 
 English/[日本語](README.ja.md)
 # Brownie
